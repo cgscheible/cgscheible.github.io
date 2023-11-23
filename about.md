@@ -16,4 +16,8 @@ You can find the source code for Jekyll at GitHub:
 
 Some posts on this blog
 
+[2023-11-22-welcome-to-jekyll]({% post_url 2023-11-22-welcome-to-jekyll %})
+
+_posts/2023-11-22-welcome-to-jekyll.markdown
+
 [jekyll-organization]: https://github.com/jekyll
