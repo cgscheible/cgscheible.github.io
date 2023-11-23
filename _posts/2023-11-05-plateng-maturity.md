@@ -4,7 +4,7 @@ The [CNCF Platform Engineering Maturity Model](https://tag-app-delivery.cncf.io/
 
 I want to relate some of my own thoughts and experience with the Platform Adoption / Maturity graph.
 
-![Platform Engineering Maturity Model — Adoption/Maturity (Credit: CNCF)]([{{site.url}}/images/adoption-curve.jpg])
+![Platform Engineering Maturity Model — Adoption/Maturity (Credit: CNCF)]([{{site.url}}/assets/images/adoption-curve.jpg])
 
 
 “L2: Operational” is not a happy place and should not be considered a viable status quo in any organization that aspires to implement platform engineering. While it is a necessary foundation for the third stage “L3: Scalable”, the developer experience in these two stages could not be more different. L2 is essentially a consolidation phase after the discovery in L1 “Provisional”. Development teams have freedom to experiment and create in L1 but it comes at the cost of technology stack sprawl, possible scalability and security issues resulting from the experimentation and sometimes technical debt for later rework. New organizations and initiatives then try to remediate the issues from L1 with introducing technology standards and formalization of requirements.
@@ -26,13 +26,13 @@ Platform offerings and capabilities need to set the standard degree for automati
 
 
 
-![Engineering platforms are not ticket generators]([{{site.url}}/images/no-ticket.png])
+![Engineering platforms are not ticket generators]([{{site.url}}/assets/images/no-ticket.png])
 
 Portals for autoamted IT-ticket generation are not engineering platforms!
 
 **If a platform engineering product is a UI that merely masks a “IT ticket generator” then the product is a failure and cannot be considered a L3 capability.** It does not scale at all and just continues the manual L2 workflow toil in a hidden shadow-IT way.
 
-![CI/CD pipelines — fully automated.]([{{site.url}}/images/bot.png])
+![CI/CD pipelines — fully automated.]([{{site.url}}/assets/images/bot.png])
 
 CI/CD pipelines — fully automated.
 A platform engineering portal is flexible and considers API as its main interface.
@@ -45,17 +45,17 @@ High-level, platform engineering infrastructure workflows are not different from
 
 Sample build-test-deploy workflow for an automated software pipeline:
 
-![CI/CD pipelines — fully automated.]([{{site.url}}/images/sdlc-pipeline.png])
+![CI/CD pipelines — fully automated.]([{{site.url}}/assets/images/sdlc-pipeline.png])
 
 Automated SDLC: CI/CD pipeline
 
 An infrastructure-as-code portal uses the same artifacts to automatically create IT infrastructure resources.
 
-![Sample plan-test-deploy workflow for an automated infrastructure pipeline.]([{{site.url}}/images/IaC-pipeline.png])
+![Sample plan-test-deploy workflow for an automated infrastructure pipeline.]([{{site.url}}/assets/images/IaC-pipeline.png])
 
 Automated infrastructure-as-code (IaC): CI/CD pipeline
 
-![Sample plan-test-deploy workflow for an automated infrastructure pipeline.]([{{site.url}}/images/IaC-pipeline-implementation.png])
+![Sample plan-test-deploy workflow for an automated infrastructure pipeline.]([{{site.url}}/assets/images/IaC-pipeline-implementation.png])
 
 Automated infrastructure-as-code: Sample implementation
 
