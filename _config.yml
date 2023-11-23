@@ -34,6 +34,14 @@ plugins:
   - jekyll-feed
   - github-pages
 
+exclude: 
+  - '_site' 
+  - '.git'
+  - 'srv/jekyll/.git'
+  - 'docker-compose'
+  - 'Gemfile'
+  - 'Gemfile.lock'
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
