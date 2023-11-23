@@ -1,5 +1,3 @@
-## Platform Engineering Maturity Model
-
 The [CNCF Platform Engineering Maturity Model](https://tag-app-delivery.cncf.io/whitepapers/platform-eng-maturity-model/) has useful insights for IT organizations with platform engineering teams.
 
 I want to relate some of my own thoughts and experience with the Platform Adoption / Maturity graph.
