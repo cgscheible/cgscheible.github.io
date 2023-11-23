@@ -4,7 +4,7 @@ The [CNCF Platform Engineering Maturity Model](https://tag-app-delivery.cncf.io/
 
 I want to relate some of my own thoughts and experience with the Platform Adoption / Maturity graph.
 
-![Platform Engineering Maturity Model — Adoption/Maturity (Credit: CNCF)]([{{site.url}}/assets/images/adoption-curve.jpg])
+![Platform Engineering Maturity Model — Adoption/Maturity (Credit: CNCF)]({{site.url}}/assets/images/adoption-curve.jpg])
 
 
 “L2: Operational” is not a happy place and should not be considered a viable status quo in any organization that aspires to implement platform engineering. While it is a necessary foundation for the third stage “L3: Scalable”, the developer experience in these two stages could not be more different. L2 is essentially a consolidation phase after the discovery in L1 “Provisional”. Development teams have freedom to experiment and create in L1 but it comes at the cost of technology stack sprawl, possible scalability and security issues resulting from the experimentation and sometimes technical debt for later rework. New organizations and initiatives then try to remediate the issues from L1 with introducing technology standards and formalization of requirements.
