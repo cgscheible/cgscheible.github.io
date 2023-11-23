@@ -22,7 +22,7 @@ description: > # this means to ignore newlines until "baseurl:"
 
 domain: cgscheible.github.io
 #baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: https://cgscheible.github.io/blog
+url: https://cgscheible.github.io
 github_username: cg5labs 
 
 # Build settings
@@ -47,3 +47,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+defaults:
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
