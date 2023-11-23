@@ -16,7 +16,7 @@
 title: Code, Cloud, and DevOps
 email: cgscheible@yahoo.com
 description: > # this means to ignore newlines until "baseurl:"
-  Personal blog on current topics in cloud, deployment automation, application development, and DevOps culture.
+  Personal views on cloud, deployment automation, application development, and DevOps culture.
 
 domain: cgscheible.github.io
 #baseurl: "/blog" # the subpath of your site, e.g. /blog
