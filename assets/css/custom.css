@@ -6,3 +6,7 @@ img {
   max-width: 500px;
 }
 
+th tr td {
+  border: 0px;
+}
+
