@@ -7,7 +7,7 @@ img {
 }
 
 table th tr td {
-  border: 0px;
+  border: none;
   border-top-style: none;
   border-left-style: none;
   border-right-style: none;
