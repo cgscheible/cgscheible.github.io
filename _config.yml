@@ -59,3 +59,5 @@ defaults:
       path: "assets/images"
     values:
       image: true
+
+google_analytics: "G-9HWDS7F4M5"
